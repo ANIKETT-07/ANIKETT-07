@@ -13,9 +13,9 @@ Here, you'll find:
 📈 Power BI dashboards & performance reporting  
 📚 Continuous learning in analytics & business intelligence  
 
-Whether you're here to explore projects, collaborate, or evaluate my work — you're in the right place.
+Whether you're here to explore projects, collaborate, or evaluate my work - you're in the right place.
 
-Let’s analyze, build, and grow — one dataset at a time. 🚀  
+Let’s analyze, build, and grow - one dataset at a time. 🚀  
 
 ---
 
